@@ -49,10 +49,5 @@
         }
       ]
     }
-  ],
-  "functions": {
-    "app/api/contact.js": {
-      "runtime": "nodejs18.x"
-    }
-  }
+  ]
 }
